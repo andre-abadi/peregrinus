@@ -13,10 +13,10 @@ Tool to parse [NUIX Discover (Ringtail)](https://www.ringtail.com/) exports into
 
 1. Place all exports in the `input/` directory
     - Files are processed alphabetically per iteration of this program
-2. Run the program: `python peregrine.py`
-3. The program will automatically select first `.xlsx` file in `input/`
-4. Choose between converting the file to a:
+2. Run the program: `python peregrinus.py`
+3. The program will automatically process the first `.xlsx` file in `input/`
+4. At the prompt, choose between converting the file to a:
     - Court Book
     - Statement
-5. Check `output/` for the finished product
-6. Check `processed/` for the original file
+5. Check `output/` for the finished product (court book or statement)
+6. Check `processed/` for the original file that has been moved so the next file in `input/` can be processed
