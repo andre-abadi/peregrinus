@@ -3,9 +3,9 @@
 1. foreigner; traveler
 2. (law) a foreigner who is neither resident nor domiciled in the jurisdiction of the court
 
-# Introduction 
-
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/andre-abadi/peregrinus/blob/master/LICENSE)
+
+# Introduction 
 
 Tool to parse [NUIX Discover (Ringtail)](https://www.ringtail.com/) exports into:
     - Paragraph text suitable for use in legal statements
