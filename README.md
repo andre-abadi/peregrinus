@@ -8,8 +8,9 @@
 # Introduction 
 
 Tool to parse [NUIX Discover (Ringtail)](https://www.ringtail.com/) exports into:
-    - Paragraph text suitable for use in legal statements
-    - A court book for use in legal proceedings
+
+- Paragraph text suitable for use in legal statements
+- A court book for use in legal proceedings
 
 # Instructions
 
