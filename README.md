@@ -1,6 +1,7 @@
 # Peregrinus
 
-**peregrīnus** m (**genitive*** *peregrīnī**); second declension
+**peregrīnus** m (*genitive* peregrīnī); second declension
+
 1. foreigner; traveler
 2. (law) a foreigner who is neither resident nor domiciled in the jurisdiction of the court
 
