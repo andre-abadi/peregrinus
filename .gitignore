@@ -8,7 +8,7 @@
 /output/*
 /processed/*
 !/sample-input.xlsx
-
+!/input/sample-input.xlsx
 
 __pycache__/
 *.py[cod]
